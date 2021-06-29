@@ -1,0 +1,51 @@
+{
+	"Raleway font": {
+		"prefix": "?raleway",
+		"body": [
+			"@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');"
+		],
+		"description": "Outputs the link for Raleway font"
+	},
+
+	"Montesrrat font": {
+		"prefix": "?montse",
+		"body": [
+			"@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');"
+		],
+		"description": "Outputs the link for Raleway font"
+	},
+
+	"Css reset": {
+		"prefix": "?cssreset",
+		"body": [
+			"* {",
+			"\tpadding: 0;",
+			"\tmargin: 0;",
+			"\tbox-sizing: border-box;",
+			"}"
+		],
+		"description": "Resets the css file"
+	},
+
+	"Flex-Align-Justify Center": {
+		"prefix": "?flex",
+		"body": [
+			"display: flex;",
+			"align-items: center;",
+			"justify-content: center;"
+		],
+		"description": "Adds flexbox with center aligned and justified"
+	},
+
+	"Glass background": {
+		"prefix": "?glassback",
+		"body": [
+			"background: linear-gradient(",
+			"\tto right top,",
+			"\trgba(255, 255, 255, 255, .7),",
+			"\trgba(255, 255, 255, 255, .3)",
+			")"
+		],
+		"description": "Adds a linear gradient with glass background"
+	},
+}
