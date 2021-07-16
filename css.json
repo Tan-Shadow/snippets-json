@@ -6,7 +6,6 @@
 		],
 		"description": "Outputs the link for Raleway font"
 	},
-
 	"Montesrrat font": {
 		"prefix": "?montse",
 		"body": [
@@ -14,7 +13,48 @@
 		],
 		"description": "Outputs the link for Raleway font"
 	},
-
+	"QuickSand font": {
+		"prefix": "?quicksand",
+		"body": [
+			"@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');"
+		],
+		"description": "Outputs the link for QuickSand font"
+	},
+	"Baloo font": {
+		"prefix": "?baloo",
+		"body": [
+			"@import url('https://fonts.googleapis.com/css2?family=Baloo+2&display=swap');"
+		],
+		"description": "Outputs the link for QuickSand font"
+	},
+	"Yomogi font": {
+		"prefix": "?yomogi",
+		"body": [
+			"@import url('https://fonts.googleapis.com/css2?family=Yomogi&display=swap');"
+		],
+		"description": "Outputs the link for Yomogi font"
+	},
+	"Ubuntu font": {
+		"prefix": "?ubuntu",
+		"body": [
+			"@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');"
+		],
+		"description": "Outputs the link for Ubuntu font"
+	},
+	"Alata font": {
+		"prefix": "?alata",
+		"body": [
+			"@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');"
+		],
+		"description": "Outputs the link for Alata font"
+	},
+	"Font families": {
+		"prefix": "?font",
+		"body": [
+			"--font-ff: \"Ubuntu\", \"Yomogi\", \"Montserrat\", \"Alata\", \"Raleway\", \"Baloo 2\";"
+		],
+		"description": "Sets the font families to the fonts that I have"
+	},
 	"Css reset": {
 		"prefix": "?cssreset",
 		"body": [
@@ -26,7 +66,6 @@
 		],
 		"description": "Resets the css file"
 	},
-
 	"Flex-Align-Justify Center": {
 		"prefix": "?flex",
 		"body": [
@@ -36,7 +75,6 @@
 		],
 		"description": "Adds flexbox with center aligned and justified"
 	},
-
 	"Glass background": {
 		"prefix": "?glassback",
 		"body": [
