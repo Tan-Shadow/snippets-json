@@ -3,7 +3,7 @@
 # How to add it?
 
 To use these snippets, click on the **gear icon** on the bottom left of your window
-and click **user snippets**, then search for *html.json* in the search bar and replace that file with [the html.json file](snippets-json/html.json)oe
+and click **user snippets**, then search for *html.json* in the search bar and replace that file with [the html.json file](/html.json) 
 do the same with css and you are good to go
 
 # How to use it?
