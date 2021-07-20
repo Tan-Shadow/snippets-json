@@ -9,4 +9,4 @@ do the same with [the css file](/css.json) and you are good to go
 # How to use it?
 
 Using it is simple the prefix is **?** just read through that json file and see what snippets are available and use them
-Example -> `?yomogi` will add a the google font import link snippet
+Example -> `?yomogi` will add a the google font import snippet
