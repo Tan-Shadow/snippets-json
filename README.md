@@ -36,4 +36,4 @@ Prefix | Descripttion
 ?alata| adds alata font
 ?font | adds all the font families mentioned above in a css variable ( you may need to add this in :root selector )
 ?flex| adds display flex, aligns centerally and justifies centerally
-?glassback| adds a linear gradient that looks like glass
+?glassback| adds a linear gradient that looks like glasss
